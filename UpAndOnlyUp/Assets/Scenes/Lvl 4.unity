@@ -2904,7 +2904,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -94.7, y: -94.73999}
+  m_AnchoredPosition: {x: -94.69999, y: -94.74}
   m_SizeDelta: {x: -144, y: -116}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &793254364
@@ -3429,9 +3429,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 522bfbc971bf6214ab59444ea896ec40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3.5
+  speed: 3.35
   lives: 1
-  jumpForce: 2.5
+  jumpForce: 2.35
 --- !u!1 &1071731512
 GameObject:
   m_ObjectHideFlags: 0
@@ -3941,7 +3941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1251a0fa05387547810eb85d526b740, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.5
+  speed: 0.7
   moveDistance: 0.7
 --- !u!50 &1223266974
 Rigidbody2D:
